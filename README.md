@@ -4,14 +4,6 @@
 ### 💻 Sobre
 
 
-### ⚙️ Features
-- [x] Menu de opções
-- [x] Login para funcionários
-- [x] Homepage
-- [x] Validações
-- [x] Cadastro de cliente
-- [x] 
-
 ### 📷 Demonstração da aplicação
 <h4>Login</h4>
 <img alt="Login" src="/readme_images/viewLogin.jpg"/>
@@ -24,8 +16,11 @@
 
 
 ### 🚀 Instalação/Pré-requisitos
+Para executar este projeto será necessário baixar e instalar algumas ferramentas importantes que fazem suporte a compilação do software.
+- Java JDK: Requisito básico para programar na linguagem Java. Recomendavel qualquer versão a partir Java8; Link: https://www.oracle.com/java/technologies/downloads/
+- MYSQL: Requisito básico para o gerenciamento de banco de dados com base na linguagem SQL. Link: https://dev.mysql.com/downloads/mysql/ 
+- Driver JDBC (biblioteca MySql Connector Jar File): Para a integração entre o Java e o SQL se faz necessário esta biblioteca que atua como um driver que possibilita 
+    a comunicação entre as duas ferramentas. Link: https://dev.mysql.com/downloads/connector/j/
 
-
-### 🛠 Tecnologias
 
 
