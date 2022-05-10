@@ -1,8 +1,7 @@
 # Gerenciador-Estacionamento_Java
-[Em Construção]
 
 ### 💻 Sobre
-
+<p>Como proposta do projeto final da disciplina de Engenharia de Software, foi elaborado uma aplicação de gerenciamento de estacionamentos, capaz de cadastrar clientes e seus veículos nas vagas do estabelecimento, monitorando a hora de entrada e saída, além de calcular o valor a ser cobrado ao final da locação.</p>
 
 ### 📷 Demonstração da aplicação
 <h4>Login</h4>
