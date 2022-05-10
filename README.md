@@ -3,6 +3,17 @@
 ### 💻 Sobre
 <p>Como proposta do projeto final da disciplina de Engenharia de Software, foi elaborado uma aplicação de gerenciamento de estacionamentos, capaz de cadastrar clientes e seus veículos nas vagas do estabelecimento, monitorando a hora de entrada e saída, além de calcular o valor a ser cobrado ao final da locação.</p>
 
+### ⚙️ Features
+- [x] Login de funcionários
+- [x] Homepage
+- [x] Cadastro de clientes e seus veículos
+- [x] Histórico de locações
+- [x] Monitoramento do estado das vagas
+- [x] Atualização dos dados do cliente
+- [x] Validações
+- [ ] Relatórios (botão ainda não está funcional)
+
+
 ### 📷 Demonstração da aplicação
 <h4>Login</h4>
 <img alt="Login" src="/readme_images/viewLogin.jpg"/>
@@ -16,9 +27,9 @@
 
 ### 🚀 Instalação/Pré-requisitos
 Para executar este projeto será necessário baixar e instalar algumas ferramentas importantes que fazem suporte a compilação do software.
-- Java JDK: Requisito básico para programar na linguagem Java. Recomendavel qualquer versão a partir Java8; Link: https://www.oracle.com/java/technologies/downloads/
+- Java JDK: Requisito básico para programar na linguagem Java. Recomendável qualquer versão a partir Java8; Link: https://www.oracle.com/java/technologies/downloads/
 - MYSQL: Requisito básico para o gerenciamento de banco de dados com base na linguagem SQL. Link: https://dev.mysql.com/downloads/mysql/ 
-- Driver JDBC (biblioteca MySql Connector Jar File): Para a integração entre o Java e o SQL se faz necessário esta biblioteca que atua como um driver que possibilita 
+- Driver JDBC (biblioteca MySql Connector Jar File): Para a integração entre o Java e o SQL se faz necessário esta biblioteca, a qual atua como um driver que possibilita 
     a comunicação entre as duas ferramentas. Link: https://dev.mysql.com/downloads/connector/j/
 
 
