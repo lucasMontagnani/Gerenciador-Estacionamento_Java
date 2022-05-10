@@ -32,5 +32,9 @@ Para executar este projeto será necessário baixar e instalar algumas ferrament
 - Driver JDBC (biblioteca MySql Connector Jar File): Para a integração entre o Java e o SQL se faz necessário esta biblioteca, a qual atua como um driver que possibilita 
     a comunicação entre as duas ferramentas. Link: https://dev.mysql.com/downloads/connector/j/
 
-
+### 📆 Trabalhos futuros
+Proximas contribuições (implementações e correções) a serem feitas neste projeto:
+- Implementar o a feature de relatórios, a qual deverá fornecer estatísticas e gráficos com base em filtros, como o tempo por exemplo;
+- Melhorar o modelo arquiterual (MVC) o qual precisa de pequenos ajustes;
+- Implementar os pricípios SOLID por completo, uma vez que a Inversão de Controle não se faz presente no projeto.
 
